@@ -16,11 +16,7 @@ export default function Projects() {
       image: "/project1.jpg",
       youtube: "https://youtu.be/NfFsM-i7S58",
     },
-    {
-      title: "The Inheritance",
-      description: "Work in Progress",
-      image: "/workip.png",
-    },
+    
   ];
 
   return (
